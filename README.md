@@ -1,6 +1,10 @@
-# Ressources pour les Travaux Pratiques de Microcontrôleurs (Assembleur)
+# Ressources pour les Travaux Pratiques de Microcontrôleurs
 
-Ce dépôt contient l’ensemble des fichiers de base nécessaires pour la réalisation des travaux pratiques de microcontrôleurs en langage assembleur.
+Ce dépôt contient l’ensemble des fichiers de base nécessaires pour la réalisation des travaux pratiques de microcontrôleurs : 
+- Dans l'IDE MPLAB X (v6.25)
+- En langage Assembleur
+- Avec le compilateur pic-as
+
 Il est conçu pour servir de point de départ à chaque étudiant : vous devez forker ce dépôt dans votre propre espace GitHub avant de commencer votre travail.
 
 ---
